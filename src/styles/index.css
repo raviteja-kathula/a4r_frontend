@@ -1,0 +1,11 @@
+/* AI Generated Code by Deloitte + Cursor (BEGIN) */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply font-sans antialiased;
+  }
+}
+/* AI Generated Code by Deloitte + Cursor (END) */
